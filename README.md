@@ -12,7 +12,8 @@
   - Presents the LLM's generated response to the user.
   - Asks if the user has further questions, creating a conversational loop.
   - Exits the loop at the user’s request. 
-  - Error Handling: Ensures user input for continuing the conversation is strictly "yes" or "no".
+
+**Error Handling:** Ensures user input for continuing the conversation is strictly "yes" or "no".
 
 **Functions:**
 
@@ -26,11 +27,9 @@
 **Benefits:**
 
   - Leverages Ollama's LLM capabilities for informative and potentially creative responses.
-
   - Simple and user-friendly text-based interface.
 
 **Limitations:**
 
   - Relies on internet access for Ollama API communication.
-
   - LLM responses may not always be perfectly accurate or relevant.

@@ -11,7 +11,7 @@
   3. Sends user questions to the Ollama API for processing.
   4. Presents the LLM's generated response to the user.
   5. Asks if the user has further questions, creating a conversational loop.
-  6. Exits the loop at the user’s request. 
+  6. Allows the user to exit the loop.
 
 **Error Handling:** Ensures user input for continuing the conversation is strictly "yes" or "no".
 

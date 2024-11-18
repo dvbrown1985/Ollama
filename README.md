@@ -6,12 +6,12 @@
 
 **User Experience:**
 
-  - Welcomes the user and explains the interaction flow.
-  - Prompts for user questions.
-  - Sends user questions to the Ollama API for processing.
-  - Presents the LLM's generated response to the user.
-  - Asks if the user has further questions, creating a conversational loop.
-  - Exits the loop at the user’s request. 
+  1. Welcomes the user and explains the interaction flow.
+  2. Prompts for user questions.
+  3. Sends user questions to the Ollama API for processing.
+  4. Presents the LLM's generated response to the user.
+  5. Asks if the user has further questions, creating a conversational loop.
+  6. Exits the loop at the user’s request. 
 
 **Error Handling:** Ensures user input for continuing the conversation is strictly "yes" or "no".
 

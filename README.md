@@ -33,3 +33,17 @@
 
   - Relies on internet access for Ollama API communication.
   - LLM responses may not always be perfectly accurate or relevant.
+
+**Requirements to run this program:**
+
+  - Python - https://www.python.org/downloads/
+  - Jupyter Notebook - https://jupyter.org/install
+  - Ollama2 - https://github.com/ollama/ollama?tab=readme-ov-file
+
+**Get Started:**
+
+  1. Run your Ollama server.
+  2. Open the juptyer notebook.
+  3. Start chatting.
+
+Enjoy :)

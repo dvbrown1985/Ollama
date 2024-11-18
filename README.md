@@ -17,8 +17,8 @@
 
 **Functions:**
 
-  - **get_response(user_input):** Sends user input to Ollama API and streams the LLM's response.
-  - **main():** Handles user interaction, prompting, and loop control.
+  1. **get_response(user_input):** Sends user input to Ollama API and streams the LLM's response.
+  2. **main():** Handles user interaction, prompting, and loop control.
 
 
 **Execution:** The if __name__ == "__main__": block ensures the script runs only when executed directly, not when imported as a module.

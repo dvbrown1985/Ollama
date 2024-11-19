@@ -1,6 +1,6 @@
 **Chatbot Overview**
 
-**Large Language Model (LLM):** Utilizes the Ollama Mistral model, a powerful large language model for generating conversational text with 7B parameters.
+**Large Language Model (LLM):** Utilizes the Ollama Mistral model, a powerful large language model with 7B parameters used to generate conversational text.
 
 **User Interface:** Text-based interaction through standard input/output of the command line.
 

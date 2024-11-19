@@ -43,7 +43,7 @@
 **Get Started:**
 
   1. Run your Ollama server.
-  2. Open the juptyer notebook.
+  2. Open the Juptyer notebook file.
   3. Start chatting.
 
 Enjoy :)
